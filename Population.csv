@@ -1,0 +1,239 @@
+﻿Rank,Country,Population
+1,China,1373541278.00
+2,India,1266883598.00
+3,European Union,513949445.00
+4,United States,323995528.00
+5,Indonesia,258316051.00
+6,Brazil,205823665.00
+7,Pakistan,201995540.00
+8,Nigeria,186053386.00
+9,Bangladesh,156186882.00
+10,Russia,142355415.00
+11,Japan,126702133.00
+12,Mexico,123166749.00
+13,Philippines,102624209.00
+14,Ethiopia,102374044.00
+15,Vietnam,95261021.00
+16,Egypt,94666993.00
+17,Iran,82801633.00
+18,"Congo, Democratic Republic of the",81331050.00
+19,Germany,80722792.00
+20,Turkey,80274604.00
+21,Thailand,68200824.00
+22,France,66836154.00
+23,United Kingdom,64430428.00
+24,Italy,62007540.00
+25,Burma,56890418.00
+26,South Africa,54300704.00
+27,Tanzania,52482726.00
+28,"Korea, South",50924172.00
+29,Spain,48563476.00
+30,Colombia,47220856.00
+31,Kenya,46790758.00
+32,Ukraine,44209733.00
+33,Argentina,43886748.00
+34,Algeria,40263711.00
+35,Poland,38523261.00
+36,Uganda,38319241.00
+37,Iraq,38146025.00
+38,Sudan,36729501.00
+39,Canada,35362905.00
+40,Morocco,33655786.00
+41,Afghanistan,33332025.00
+42,Malaysia,30949962.00
+43,Venezuela,30912302.00
+44,Peru,30741062.00
+45,Uzbekistan,29473614.00
+46,Nepal,29033914.00
+47,Saudi Arabia,28160273.00
+48,Yemen,27392779.00
+49,Ghana,26908262.00
+50,Mozambique,25930150.00
+51,"Korea, North",25115311.00
+52,Madagascar,24430325.00
+53,Cameroon,24360803.00
+54,Cote d'Ivoire,23740424.00
+55,Taiwan,23464787.00
+56,Australia,22992654.00
+57,Sri Lanka,22235000.00
+58,Romania,21599736.00
+59,Angola,20172332.00
+60,Burkina Faso,19512533.00
+61,Niger,18638600.00
+62,Malawi,18570321.00
+63,Kazakhstan,18360353.00
+64,Chile,17650114.00
+65,Mali,17467108.00
+66,Syria,17185170.00
+67,Netherlands,17016967.00
+68,Ecuador,16080778.00
+69,Cambodia,15957223.00
+70,Zambia,15510711.00
+71,Guatemala,15189958.00
+72,Zimbabwe,14546961.00
+73,Senegal,14320055.00
+74,Rwanda,12988423.00
+75,South Sudan,12530717.00
+76,Guinea,12093349.00
+77,Chad,11852462.00
+78,Belgium,11409077.00
+79,Cuba,11179995.00
+80,Tunisia,11134588.00
+81,Burundi,11099298.00
+82,Bolivia,10969649.00
+83,Portugal,10833816.00
+84,Somalia,10817354.00
+85,Greece,10773253.00
+86,Benin,10741458.00
+87,Czechia,10644842.00
+88,Dominican Republic,10606865.00
+89,Haiti,10485800.00
+90,Sweden,9880604.00
+91,Hungary,9874784.00
+92,Azerbaijan,9872765.00
+93,Belarus,9570376.00
+94,Honduras,8893259.00
+95,Austria,8711770.00
+96,Tajikistan,8330946.00
+97,Jordan,8185384.00
+98,Switzerland,8179294.00
+99,Israel,8174527.00
+100,Togo,7756937.00
+101,Hong Kong,7167403.00
+102,Bulgaria,7144653.00
+103,Serbia,7143921.00
+104,Laos,7019073.00
+105,Paraguay,6862812.00
+106,Papua New Guinea,6791317.00
+107,Libya,6541948.00
+108,Lebanon,6237738.00
+109,El Salvador,6156670.00
+110,Sierra Leone,6018888.00
+111,Nicaragua,5966798.00
+112,United Arab Emirates,5927482.00
+113,Eritrea,5869869.00
+114,Singapore,5781728.00
+115,Kyrgyzstan,5727553.00
+116,Denmark,5593785.00
+117,Central African Republic,5507257.00
+118,Finland,5498211.00
+119,Slovakia,5445802.00
+120,Turkmenistan,5291317.00
+121,Norway,5265158.00
+122,Ireland,4952473.00
+123,Georgia,4928052.00
+124,Costa Rica,4872543.00
+125,"Congo, Republic of the",4852412.00
+126,New Zealand,4474549.00
+127,Croatia,4313707.00
+128,Liberia,4299944.00
+129,Bosnia and Herzegovina,3861912.00
+130,Panama,3705246.00
+131,Mauritania,3677293.00
+132,Puerto Rico,3578056.00
+133,Moldova,3510485.00
+134,Oman,3355262.00
+135,Uruguay,3351016.00
+136,Armenia,3051250.00
+137,Albania,3038594.00
+138,Mongolia,3031330.00
+139,Jamaica,2970340.00
+140,Lithuania,2854235.00
+141,Kuwait,2832776.00
+142,West Bank,2697687.00
+143,Namibia,2436469.00
+144,Qatar,2258283.00
+145,Botswana,2209208.00
+146,Macedonia,2100025.00
+147,"Gambia, The",2009648.00
+148,Slovenia,1978029.00
+149,Latvia,1965686.00
+150,Lesotho,1953070.00
+151,Kosovo,1883018.00
+152,Guinea-Bissau,1759159.00
+153,Gaza Strip,1753327.00
+154,Gabon,1738541.00
+155,Swaziland,1451428.00
+156,Bahrain,1378904.00
+157,Mauritius,1348242.00
+158,Timor-Leste,1261072.00
+159,Estonia,1258545.00
+160,Trinidad and Tobago,1220479.00
+161,Cyprus,1205575.00
+162,Fiji,915303.00
+163,Djibouti,846687.00
+164,Comoros,794678.00
+165,Equatorial Guinea,759451.00
+166,Bhutan,750125.00
+167,Guyana,735909.00
+168,Montenegro,644578.00
+169,Solomon Islands,635027.00
+170,Macau,597425.00
+171,Western Sahara,587020.00
+172,Suriname,585824.00
+173,Luxembourg,582291.00
+174,Cabo Verde,553432.00
+175,Brunei,436620.00
+176,Malta,415196.00
+177,Maldives,392960.00
+178,Belize,353858.00
+179,Iceland,335878.00
+180,"Bahamas, The",327316.00
+181,Barbados,291495.00
+182,French Polynesia,285321.00
+183,Vanuatu,277554.00
+184,New Caledonia,275355.00
+185,Samoa,198926.00
+186,Sao Tome and Principe,197541.00
+187,Saint Lucia,164464.00
+188,Guam,162742.00
+189,Curacao,149035.00
+190,Aruba,113648.00
+191,Grenada,111219.00
+192,Kiribati,106925.00
+193,Tonga,106513.00
+194,"Micronesia, Federated States of",104719.00
+195,Virgin Islands,102951.00
+196,Saint Vincent and the Grenadines,102350.00
+197,Jersey,98069.00
+198,Antigua and Barbuda,93581.00
+199,Seychelles,93186.00
+200,Isle of Man,88195.00
+201,Andorra,85660.00
+202,Dominica,73757.00
+203,Marshall Islands,73376.00
+204,Bermuda,70537.00
+205,Guernsey,66297.00
+206,Greenland,57728.00
+207,Cayman Islands,57268.00
+208,American Samoa,54194.00
+209,Northern Mariana Islands,53467.00
+210,Saint Kitts and Nevis,52329.00
+211,Turks and Caicos Islands,51430.00
+212,Faroe Islands,50456.00
+213,Sint Maarten,41486.00
+214,Liechtenstein,37937.00
+215,British Virgin Islands,34232.00
+216,San Marino,33285.00
+217,Saint Martin,31949.00
+218,Monaco,30581.00
+219,Gibraltar,29328.00
+220,Palau,21347.00
+221,Anguilla,16752.00
+222,Wallis and Futuna,15664.00
+223,Tuvalu,10959.00
+224,Nauru,9591.00
+225,Cook Islands,9556.00
+226,"Saint Helena, Ascension, and Tristan da Cunha",7795.00
+227,Saint Barthelemy,7209.00
+228,Saint Pierre and Miquelon,5595.00
+229,Montserrat,5267.00
+230,Falkland Islands (Islas Malvinas),2931.00
+231,Norfolk Island,2210.00
+232,Christmas Island,2205.00
+233,Svalbard,1872.00
+234,Tokelau,1337.00
+235,Niue,1190.00
+236,Holy See (Vatican City),1000.00
+237,Cocos (Keeling) Islands,596.00
+238,Pitcairn Islands,54.00

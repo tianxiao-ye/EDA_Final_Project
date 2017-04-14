@@ -1,0 +1,237 @@
+﻿Rank,Country,Number of Airports
+1,United States,13513.00
+2,Brazil,4093.00
+3,Mexico,1714.00
+4,Canada,1467.00
+5,Russia,1218.00
+6,Argentina,1138.00
+7,Bolivia,855.00
+8,Colombia,836.00
+9,Paraguay,799.00
+10,Indonesia,673.00
+11,South Africa,566.00
+12,Papua New Guinea,561.00
+13,Germany,539.00
+14,China,507.00
+15,Chile,481.00
+16,Australia,480.00
+17,France,464.00
+18,United Kingdom,460.00
+19,Venezuela,444.00
+20,Ecuador,432.00
+21,India,346.00
+22,Iran,319.00
+23,Guatemala,291.00
+24,Philippines,247.00
+25,Sweden,231.00
+26,Saudi Arabia,214.00
+27,"Congo, Democratic Republic of the",198.00
+28,Kenya,197.00
+29,Zimbabwe,196.00
+30,Peru,191.00
+31,Ukraine,187.00
+32,Angola,176.00
+33,Japan,175.00
+34,Tanzania,166.00
+35,Costa Rica,161.00
+36,Algeria,157.00
+37,Pakistan,151.00
+38,Spain,150.00
+39,Finland,148.00
+40,Nicaragua,147.00
+41,Libya,146.00
+42,Uruguay,133.00
+43,Cuba,133.00
+44,Oman,132.00
+45,Italy,129.00
+46,Czechia,128.00
+47,Poland,126.00
+48,New Zealand,123.00
+49,Panama,117.00
+50,Guyana,117.00
+51,Malaysia,114.00
+52,Namibia,112.00
+53,"Korea, South",111.00
+54,Honduras,103.00
+55,Iraq,102.00
+56,Thailand,101.00
+57,Mozambique,98.00
+58,Turkey,98.00
+59,Kazakhstan,96.00
+60,Iceland,96.00
+61,Norway,95.00
+62,Syria,90.00
+63,Zambia,88.00
+64,South Sudan,85.00
+65,Madagascar,83.00
+66,Egypt,83.00
+67,"Korea, North",82.00
+68,Denmark,80.00
+69,Greece,77.00
+70,Botswana,74.00
+71,Sudan,74.00
+72,Croatia,69.00
+73,Bulgaria,68.00
+74,El Salvador,68.00
+75,Belarus,65.00
+76,Burma,64.00
+77,Portugal,64.00
+78,Switzerland,63.00
+79,Lithuania,61.00
+80,"Bahamas, The",61.00
+81,Somalia,61.00
+82,Chad,59.00
+83,Ethiopia,57.00
+84,Yemen,57.00
+85,Suriname,55.00
+86,Morocco,55.00
+87,French Polynesia,54.00
+88,Nigeria,54.00
+89,Uzbekistan,53.00
+90,Austria,52.00
+91,Afghanistan,52.00
+92,Belize,47.00
+93,Uganda,47.00
+94,Israel,47.00
+95,Nepal,47.00
+96,Romania,45.00
+97,Vietnam,45.00
+98,Mongolia,44.00
+99,Gabon,44.00
+100,United Arab Emirates,43.00
+101,Latvia,42.00
+102,Belgium,41.00
+103,Laos,41.00
+104,Hungary,41.00
+105,Ireland,40.00
+106,Central African Republic,39.00
+107,Taiwan,37.00
+108,Azerbaijan,37.00
+109,Solomon Islands,36.00
+110,Dominican Republic,36.00
+111,Slovakia,35.00
+112,Cameroon,33.00
+113,Malawi,32.00
+114,Vanuatu,31.00
+115,Niger,30.00
+116,Mauritania,30.00
+117,Liberia,29.00
+118,Tunisia,29.00
+119,Puerto Rico,29.00
+120,Netherlands,29.00
+121,Fiji,28.00
+122,Kyrgyzstan,28.00
+123,Jamaica,28.00
+124,Cote d'Ivoire,27.00
+125,"Congo, Republic of the",27.00
+126,Turkmenistan,26.00
+127,Serbia,26.00
+128,New Caledonia,25.00
+129,Mali,25.00
+130,Bosnia and Herzegovina,24.00
+131,Tajikistan,24.00
+132,Lesotho,24.00
+133,Burkina Faso,23.00
+134,Antarctica,23.00
+135,Georgia,22.00
+136,Senegal,20.00
+137,Sri Lanka,19.00
+138,Kiribati,19.00
+139,Bangladesh,18.00
+140,Jordan,18.00
+141,Estonia,18.00
+142,Cambodia,16.00
+143,Slovenia,16.00
+144,Guinea,16.00
+145,Cyprus,15.00
+146,Marshall Islands,15.00
+147,Greenland,15.00
+148,Haiti,14.00
+149,Swaziland,14.00
+150,Seychelles,14.00
+151,Eritrea,13.00
+152,Djibouti,13.00
+153,Cook Islands,11.00
+154,Armenia,11.00
+155,Macedonia,10.00
+156,Ghana,10.00
+157,Cabo Verde,9.00
+158,Singapore,9.00
+159,Maldives,9.00
+160,Guinea-Bissau,8.00
+161,Lebanon,8.00
+162,Turks and Caicos Islands,8.00
+163,Togo,8.00
+164,Sierra Leone,8.00
+165,Burundi,7.00
+166,Equatorial Guinea,7.00
+167,Rwanda,7.00
+168,Kuwait,7.00
+169,Moldova,7.00
+170,Falkland Islands (Islas Malvinas),7.00
+171,Benin,6.00
+172,Kosovo,6.00
+173,"Micronesia, Federated States of",6.00
+174,Western Sahara,6.00
+175,Saint Vincent and the Grenadines,6.00
+176,Timor-Leste,6.00
+177,Tonga,6.00
+178,Qatar,6.00
+179,Guam,5.00
+180,Northern Mariana Islands,5.00
+181,Montenegro,5.00
+182,Mauritius,5.00
+183,Albania,4.00
+184,Bahrain,4.00
+185,British Virgin Islands,4.00
+186,Comoros,4.00
+187,Trinidad and Tobago,4.00
+188,Samoa,4.00
+189,Spratly Islands,4.00
+190,Svalbard,4.00
+191,French Southern and Antarctic Lands,4.00
+192,American Samoa,3.00
+193,Antigua and Barbuda,3.00
+194,Palau,3.00
+195,Grenada,3.00
+196,Cayman Islands,3.00
+197,Anguilla,2.00
+198,Bhutan,2.00
+199,Dominica,2.00
+200,Guernsey,2.00
+201,Hong Kong,2.00
+202,Luxembourg,2.00
+203,West Bank,2.00
+204,Saint Lucia,2.00
+205,Saint Pierre and Miquelon,2.00
+206,Sao Tome and Principe,2.00
+207,Virgin Islands,2.00
+208,Wallis and Futuna,2.00
+209,Saint Kitts and Nevis,2.00
+210,Aruba,1.00
+211,Wake Island,1.00
+212,Bermuda,1.00
+213,British Indian Ocean Territory,1.00
+214,Brunei,1.00
+215,Christmas Island,1.00
+216,Cocos (Keeling) Islands,1.00
+217,Faroe Islands,1.00
+218,"Gambia, The",1.00
+219,Gaza Strip,1.00
+220,Gibraltar,1.00
+221,Isle of Man,1.00
+222,Jan Mayen,1.00
+223,Jersey,1.00
+224,Macau,1.00
+225,Malta,1.00
+226,Montserrat,1.00
+227,Nauru,1.00
+228,Niue,1.00
+229,Norfolk Island,1.00
+230,Paracel Islands,1.00
+231,Saint Barthelemy,1.00
+232,"Saint Helena, Ascension, and Tristan da Cunha",1.00
+233,Saint Martin,1.00
+234,Sint Maarten,1.00
+235,Tuvalu,1.00
+236,Barbados,1.00
